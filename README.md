@@ -1,4 +1,4 @@
-# Cohort
+# 0-1 Cohort
 ## Syllabus
 ### Foundation
 1. Foundation Javascript, async nature of JS
